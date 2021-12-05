@@ -5,6 +5,10 @@ El datatón anticorrupción es una iniciativa donde construiremos herramientas q
 
 El equipo de la Plataforma Digital Nacional (PDN), la cual es una herramienta tecnológica de inteligencia institucional desarrollada por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción (SESNA), llevará a cabo el Datatón Anticorrupción con el objetivo de abrir un espacio para que las personas aprovechen los beneficios de la tecnología para proponer y diseñar formas e ideas innovadoras de combatir la corrupción a partir de la información contenida en las bases de datos de la PDN.
 
+<p align="center">
+<img src="https://github.com/GlobalData-2021/DatatonAnticorrupcion2021/blob/main/img/dataton2021-transparente.png"  height="350" width="250"  >
+</p>
+
 ### Convocatoria
 El equipo de la Plataforma Digital Nacional convoca a la sociedad civil a participar en el Datatón Anticorrupción 2021 cuyo objetivo es desarrollar algoritmos y/o visualizaciones de evolución patrimonial para detectar anomalías o tendencias en datos de declaraciones de servidores públicos.
 
